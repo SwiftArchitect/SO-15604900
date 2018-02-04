@@ -6,7 +6,7 @@
 
 ### Stack Overflow Question 15604900
 
-Xcode project & source code related to [OS 8, 9, 10...](https://stackoverflow.com/questions/15604900/uitableviewheaderfooterview-unable-to-change-background-color/25588828#25588828) answer.
+Xcode project & source code related to [iOS 8, 9, 10, 11...](https://stackoverflow.com/questions/15604900/uitableviewheaderfooterview-unable-to-change-background-color/25588828#25588828) answer.
 
 ---
 
